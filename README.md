@@ -1,4 +1,4 @@
-## 👋 Heya! I’m Shubhi Nigam <img src="https://www.svgrepo.com/show/25793/girl.svg" alt="Java" height="10" style="vertical-align:top; margin:4px">
+## 👋 Heya! I’m Shubhi Nigam <img src="https://www.svgrepo.com/show/25793/girl.svg" alt="Java" height="30" style="vertical-align:top; margin:4px">
 - 👀 I’m enthusiastic about new technologies and frameworks
 - 🌱 I’m currently learning about Message Queues
 - 💞️ I’m looking to collaborate on Spring/React projects
@@ -8,11 +8,11 @@
 ## 📫✉️ Reach me at:
 
 <p align="center">
- <a href="https://github.com/ShubhiNigam29" target="_blank" rel="noopener noreferrer"> <img src="https://www.svgrepo.com/show/306096/github.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/shubhi-nigam-942864167/" target="_blank" rel="noopener noreferrer"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:shubhinigam29@gmail.com"> <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.facebook.com/shubhi.nigam.1840/"> <img src="https://www.svgrepo.com/show/111203/facebook.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.instagram.com/shubhhinigam29/"> <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/ShubhiNigam29" target="_blank" rel="noopener noreferrer"> <img src="https://www.svgrepo.com/show/306096/github.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/shubhi-nigam-942864167/" target="_blank" rel="noopener noreferrer"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:shubhinigam29@gmail.com"> <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.facebook.com/shubhi.nigam.1840/"> <img src="https://www.svgrepo.com/show/111203/facebook.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/shubhhinigam29/"> <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
