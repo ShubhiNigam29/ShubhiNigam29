@@ -1,4 +1,4 @@
-## 👋 Heya! I’m Shubhi Nigam <img src="https://www.svgrepo.com/show/25793/girl.svg" alt="Java" height="30" style="vertical-align:top; margin:4px">
+## 👋 Heya! I’m Shubhi Nigam <img src="https://www.svgrepo.com/show/25793/girl.svg" alt="Java" height="20" style="vertical-align:top; margin:4px">
 - 👀 I’m enthusiastic about new technologies and frameworks
 - 🌱 I’m currently learning about Message Queues
 - 💞️ I’m looking to collaborate on Spring/React projects
