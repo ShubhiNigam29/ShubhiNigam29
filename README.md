@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShubhiNigam29
+## 👋 Heya! I’m Shubhi Nigam <img src="https://www.svgrepo.com/show/25793/girl.svg" alt="Java" height="10" style="vertical-align:top; margin:4px">
 - 👀 I’m enthusiastic about new technologies and frameworks
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning about Message Queues
 - 💞️ I’m looking to collaborate on Spring/React projects
-- 💬 Ask me about Java, JavaScript, Github. Happy to discuss any technical stuff.
+- 💬 Ask me about Java, JavaScript, React. Happy to discuss any technical stuff.
 - 😄 Pronouns: She/Her/Hers
 
 ## 📫✉️ Reach me at:
@@ -23,6 +23,7 @@
  <img src="https://www.svgrepo.com/show/314392/node.svg" alt="Nodejs" height="30" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
  <img src="https://www.svgrepo.com/show/226137/php.svg" alt="PHP" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://www.svgrepo.com/show/79342/html.svg" alt="HTML" height="30" style="vertical-align:top; margin:4px">
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhiNigam29&show_icons=true&theme=tokyonight)
