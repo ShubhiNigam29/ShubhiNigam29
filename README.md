@@ -6,11 +6,11 @@
 - 📫 Reach me at shubhinigam29@gmail.com
 - 😄 Pronouns: She/Her/Hers
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3][[!twitter](http://i.imgur.com/tXSoThF.png)][4]
-[1]: https://github.com/ShubhiNigam29
-[2]: https://www.linkedin.com/in/shubhi-nigam-942864167/
-[3]: https://www.facebook.com/shubhi.nigam.1840/
-[4]: https://twitter.com/nigamshubhhi29
+<p align="center">
+ <a href="https://github.com/ShubhiNigam29" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/shubhi-nigam-942864167/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:shubhinigam29@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
